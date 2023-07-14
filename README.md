@@ -33,6 +33,7 @@ Steps of Project Implementation:
 18. Comparison of accuracy rate of SVM and CNN
 
 For more details to understand the project refer documentation
+
 Modules:
 Upload MRI images dataset.
 Read &spilt images dataset to train & test model.
