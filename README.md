@@ -31,6 +31,7 @@ Steps of Project Implementation:
 16. Predicting Survival Rate of SVM and CNN
 17. Calculate The Accuracy Rate of SVM and CNN
 18. Comparison of accuracy rate of SVM and CNN
+
 For more details to understand the project refer documentation
 Modules:
 Upload MRI images dataset.
